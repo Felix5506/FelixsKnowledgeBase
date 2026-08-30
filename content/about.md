@@ -1,0 +1,1 @@
+My name is Felix, I am a computing applications student at Texas Tech University. I am interested in technology, both hardware and software and have experience working with both aspects

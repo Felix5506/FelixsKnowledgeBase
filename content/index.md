@@ -1,9 +1,17 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Felix's Knowledge Base
 ---
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+
+## Main Categories
+
+- [[Current-Projects/index|Current Projects]]
+- [[Future-Project-Ideas/index|Future Project Ideas]]
+- [[Known-Bugs/index|Known Bugs]]
+- [[Previous-Projects/index|Previous Projects]]
+- [[To-Do-List/index|To-Do List]]
 
 ## Editing pages
 
