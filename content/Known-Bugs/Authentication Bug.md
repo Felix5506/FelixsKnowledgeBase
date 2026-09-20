@@ -14,10 +14,10 @@ Any user that has made multiple attempts on the daily puzzle or has attempted to
 ### How to Resolve
 The bug fixes itself client side after the daily puzzle refreshes. On the server side, it may be fixable if I can reduce the number of requests made between Supabase and discord.
 
-![User bug report describing audio muting on game launch](assets/AuthBug.png)
+![User bug report describing audio muting on game launch](../assets/AuthBug.png)
 Above is the supabase data for server configs, controlling which servers have the game set up.
 
 #### See Also
 [[Save State Bug]]
-![Terms Of Service](assets/TOS.pdf)
-![Add Bot Page](assets/AddBotPage.png)
+![Terms Of Service](../assets/TOS.pdf)
+![Add Bot Page](../assets/AddBotPage.png)

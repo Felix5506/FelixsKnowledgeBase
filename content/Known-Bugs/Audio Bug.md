@@ -1,6 +1,6 @@
 There is a known bug where audio will become muted from various sources on a phone when a game of connections is launched.
 
-![User bug report describing audio muting on game launch](assets/AudioBugReport.png)
+![User bug report describing audio muting on game launch](../assets/AudioBugReport.png)
 Above is a users description of the bug
 
 # How to Recreate the Bug
