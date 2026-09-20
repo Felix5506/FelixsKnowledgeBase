@@ -19,3 +19,5 @@ Above is the supabase data for server configs, controlling which servers have th
 
 #### See Also
 [[Save State Bug]]
+![Terms Of Service](TOS.pdf)
+![Add Bot Page](AddBotPage.png)
