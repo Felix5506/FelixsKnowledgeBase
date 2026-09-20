@@ -12,7 +12,7 @@ This bug is medium priority for me because I think it may be possible to just in
 ### How to Resolve
 I intend to resolve this bug by either setting a static friction value everywhere, or by changing the character's animation to match a more slippery movement style. Currently, I am more likely to just leave it and animate the characters movement to match this movement pattern.
 
-![Pathfinding script](PathFindingScript.png)
+![Pathfinding script](assets/PathFindingScript.png)
 Above is what my current script looks like for the AI
 
 

@@ -12,7 +12,7 @@ This bug is one of my top priorities due to its severity, as the game loop canno
 ### How to Resolve
 This bug is entirely server sided and located in one of my server scripts handling the end game state, I will be fixing this bug by simply turning off the ability to respawn for all players.
 
-![Script controlling the end game screen](EndGameScript.png)
+![Script controlling the end game screen](assets/EndGameScript.png)
 Above is my script that controls the end screen, the error is likely found within this script due to a lack of instructions on if a player respawns.
 
 

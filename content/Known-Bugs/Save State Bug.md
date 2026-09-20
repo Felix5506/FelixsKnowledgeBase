@@ -1,6 +1,6 @@
 There is a known bug in the connections game where users can relaunch the game multiple times and reset their game state
 
-![User bug report describing audio muting on game launch](SaveStateBugReport.png)
+![User bug report describing audio muting on game launch](assets/SaveStateBugReport.png)
 Above is a users description of the bug
 
 # How to Recreate the Bug
