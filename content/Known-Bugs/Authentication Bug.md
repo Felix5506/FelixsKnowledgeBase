@@ -1,3 +1,10 @@
+---
+title: Authentication Bug
+category: Known-Bugs
+tags:
+  - bug-report
+  - authentication
+---
 There is another known bug with the connections game where users will have to authenticate multiple times
 
 # How to Recreate the Bug

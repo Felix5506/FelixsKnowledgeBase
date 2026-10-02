@@ -12,6 +12,7 @@ This is the index page (`content/index.md`) of your knowledge base docs. It serv
 - [[Known-Bugs/index|Known Bugs]]
 - [[Previous-Projects/index|Previous Projects]]
 - [[To-Do-List/index|To-Do List]]
+- [[References/References|References]]
 
 ## Editing pages
 

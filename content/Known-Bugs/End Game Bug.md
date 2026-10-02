@@ -1,3 +1,10 @@
+---
+title: End Game Bug
+category: Known-Bugs
+tags:
+  - bug-report
+  - state-management
+---
 In a game I am currently developing, there is a bug where the end state is affected by players respawning.
 
 

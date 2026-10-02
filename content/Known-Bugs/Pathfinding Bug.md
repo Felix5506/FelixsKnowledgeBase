@@ -1,3 +1,10 @@
+---
+title: Pathfinding Bug
+category: Known-Bugs
+tags:
+  - bug-report
+  - pathfinding
+---
 In a currently unnamed game I am currently developing, there is a bug where one of the AI's pathfinding is not working as intended. Currently it is stuck on low friction, meaning the model will slide on the ground.
 
 

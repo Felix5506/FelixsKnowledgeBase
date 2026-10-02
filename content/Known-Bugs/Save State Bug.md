@@ -1,3 +1,10 @@
+---
+title: Save State Bug
+category: Known-Bugs
+tags:
+  - bug-report
+  - data-persistence
+---
 There is a known bug in the connections game where users can relaunch the game multiple times and reset their game state
 
 ![User bug report describing audio muting on game launch](../assets/SaveStateBugReport.png)
